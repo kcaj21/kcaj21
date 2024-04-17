@@ -13,5 +13,4 @@ Software developer, educated at Codeclan, with a background in clinical data man
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+_generated with [Platane/snk](https://github.com/Platane/snk)_
