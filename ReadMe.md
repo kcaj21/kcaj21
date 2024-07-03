@@ -1,5 +1,5 @@
 # 🦈 About Me:
-Software developer, educated at Codeclan, with a background in clinical data management. <br><br>I'm currently learning Django and furthering my knowledge of cloud computing.
+Software developer at the MRC University of Glasgow Centre for Virus Research. <br><br>Educated at Codeclan, with a background in clinical data management.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajcdc627/) 
